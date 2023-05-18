@@ -1,5 +1,5 @@
-# VK-Interhship
-VK-Internship entry task (QA) 
+# VK-Interhship-QA
+VK-Internship entry task
 
 Задание:
 Протестировать форму авторизации https://account.mail.ru/login
